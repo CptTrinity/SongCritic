@@ -6,13 +6,6 @@ using System.Text;
 class Program
 {
     
-/*************  ✨ Codeium Command ⭐  *************/
-/// <summary>
-/// The entry point for the Song Critic application. Initializes the console with Unicode support
-/// and manages the main menu options for band registration, display, and rating.
-/// </summary>
-
-/******  a8ff344a-46eb-4c4b-b6b2-95ce5c98f047  *******/
     static void Main()
     {
         // Allow special characters in strings
